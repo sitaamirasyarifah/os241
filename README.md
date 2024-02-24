@@ -7,7 +7,7 @@ os241
 
 
 
-[HOME](.) | [LINKS](link.md) | [LOG](TXT/mylog.txt) |  [GITHUB](https://github.com/sitaamirasyarifah/os241) | [TARBALL](https://os.vlsm.org/Log/sitaamirasyarifah.tar.xz.txt)
+[HOME](.) | [LINKS](links.md) | [LOG](TXT/mylog.txt) |  [GITHUB](https://github.com/sitaamirasyarifah/os241) | [TARBALL](https://os.vlsm.org/Log/sitaamirasyarifah.tar.xz.txt)
 
 Sita Amira Syarifah's Repository for OS 2024-1! (Even semester 2023/2024)
 
