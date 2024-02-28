@@ -6,7 +6,7 @@ permalink: LINKS/
 
 ||[LOG](TXT/mylog.txt)|| ||[GitHub](https://github.com/sitaamirasyarifah/os241)|| ||[LINKS](links.md)|| ||[TARBALL](https://os.vlsm.org/Log/sitaamirasyarifah.tar.xz.txt)||
 
-<span style="color:red;font-weight:bold;font-size:larger;">By {{site.author}}💻</span>
+<span style="color:red;font-weight:bold;font-size:larger;">By sitaamirasyarifah 💻</span>
 <br><br>
 [![HOME](https://img.shields.io/badge/-HOME-C6DBDA?style=for-the-badge&logoColor=green)]({{ site.baseurl }})
 [![LINKS](https://img.shields.io/badge/-LINKS-55CBCD?style=for-the-badge&logoColor=white)]({{ site.baseurl }}/LINKS/)
