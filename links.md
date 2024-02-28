@@ -35,3 +35,17 @@ This video, from the same channel as the previous one, shares similarities in it
 5. [Why Do We Need Cybersecurity](https://www.onelogin.com/learn/what-is-cyber-security)<br>
 Cyber crime has become a very hot issue lately. Ranging from individuals, governments, and even organizations, have a high risk of getting cyber crime. But what exactly cyber crime is? Why do we need security and protection on our system?
 
+<h3>Week 03</h3>
+1. [Allocation Methods](https://www.youtube.com/watch?v=B1_er2nGKao)
+Discusses the process of assigning files within a storage system, drawing insights from an operating system textbook to enhance comprehension of file allocation methods.
+
+2. [Intro to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+The provided link offers valuable insights into Linux filesystems, making it a beneficial resource to prepare for Week 03 assignments. By comprehensively understanding the concepts discussed in the article, learners can move beyond mere command replication to gain a deeper understanding of the tasks at hand.
+
+3. [Difference between Internal and External fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/)<br>
+The provided link offers valuable insights into the distinctions between internal and external fragmentation. It presents clear explanations along with diagrams to illustrate each type of fragmentation, making it a helpful resource for learning about memory management concepts.
+
+
+
+
+
