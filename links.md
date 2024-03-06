@@ -45,7 +45,17 @@ The provided link offers valuable insights into Linux filesystems, making it a b
 3. [Difference between Internal and External fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/)<br>
 The provided link offers valuable insights into the distinctions between internal and external fragmentation. It presents clear explanations along with diagrams to illustrate each type of fragmentation, making it a helpful resource for learning about memory management concepts.
 
+<h3>Week 04</h3>
+1. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
+Memory Mapping is a really interesting feature that is used in a Unix System. 
+This Article explains it really well despite its compact size.
+
+2. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
+Linking is the process of bringing external programs together required by the one we write for its successful execution.
+Static and dynamic linking are two processes of collecting and combining multiple object files in order to create a single executable.
+Here we will discuss the difference between them.
 
 
-
+3. [Pointers in C](https://youtu.be/mw1qsMieK5c)
+This week we delve deeper into C, with a highlight on pointers. That video above explains it in more detail.
 
