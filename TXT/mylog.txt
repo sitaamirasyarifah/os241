@@ -28,3 +28,9 @@ ZCZC W04 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 60 L04 GitHub Pages related
 ZCZC W04 30 L05 Quiz related including studying
 ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 150 L09 Assignment in General
+ZCZC W05 60 L25 C-language including Make.
+ZCZC W05 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 40 L04 GitHub Pages related
+ZCZC W05 50 L05 Quiz related including studying
+ZCZC W05 15 L03 GitHub and git related, including commit, push, pull
